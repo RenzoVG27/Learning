@@ -1,0 +1,27 @@
+[
+	{
+		"file": "/Users/renzo.villacorta/Projects/Unreal/ObstacleAssault/Source/ObstacleAssault/MovingPlatform.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @/Users/renzo.villacorta/Projects/Unreal/ObstacleAssault/.vscode/compileCommands_ObstacleAssault/ObstacleAssault.204.rsp",
+		"directory": "/Users/Shared/Epic Games/UE_5.0/Engine/Source"
+	},
+	{
+		"file": "/Users/renzo.villacorta/Projects/Unreal/ObstacleAssault/Source/ObstacleAssault/MovingPlatform.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @/Users/renzo.villacorta/Projects/Unreal/ObstacleAssault/.vscode/compileCommands_ObstacleAssault/ObstacleAssault.204.rsp",
+		"directory": "/Users/Shared/Epic Games/UE_5.0/Engine/Source"
+	},
+	{
+		"file": "/Users/renzo.villacorta/Projects/Unreal/ObstacleAssault/Source/ObstacleAssault/ObstacleAssault.Build.cs",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @/Users/renzo.villacorta/Projects/Unreal/ObstacleAssault/.vscode/compileCommands_ObstacleAssault/ObstacleAssault.204.rsp",
+		"directory": "/Users/Shared/Epic Games/UE_5.0/Engine/Source"
+	},
+	{
+		"file": "/Users/renzo.villacorta/Projects/Unreal/ObstacleAssault/Source/ObstacleAssault/ObstacleAssault.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @/Users/renzo.villacorta/Projects/Unreal/ObstacleAssault/.vscode/compileCommands_ObstacleAssault/ObstacleAssault.204.rsp",
+		"directory": "/Users/Shared/Epic Games/UE_5.0/Engine/Source"
+	},
+	{
+		"file": "/Users/renzo.villacorta/Projects/Unreal/ObstacleAssault/Source/ObstacleAssault/ObstacleAssault.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @/Users/renzo.villacorta/Projects/Unreal/ObstacleAssault/.vscode/compileCommands_ObstacleAssault/ObstacleAssault.204.rsp",
+		"directory": "/Users/Shared/Epic Games/UE_5.0/Engine/Source"
+	}
+]
