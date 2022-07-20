@@ -23,7 +23,6 @@ class CharsCounter
                 it->second++;
             else
                 chars.insert(make_pair(input[i],1));
-            PrintResults();
         }
     }
 
@@ -40,16 +39,18 @@ class CharsCounter
 
 };
 
+void func( int rval[]){
+    cout<<"val : "<<rval[2]<<endl;
+}
+
 int main(int argc, char const *argv[])
 {
    string input = "Hello World";
 
-   CharsCounter tool
-   ;
+   CharsCounter tool;
    tool.SetString(input);
    tool.Calculate();
    tool.PrintResults();
-
 
 
     return 0;

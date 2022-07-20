@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/renzo.villacorta/Test/Learning/Design_Patterns/Creational/Prototype/without_prototype",
+      "program": "/Users/renzo.villacorta/Test/Learning/Design_Patterns/Creational/Prototype/without_prototype/main",
+      "MIMode": "gdb"
+    }
+  ]
+}

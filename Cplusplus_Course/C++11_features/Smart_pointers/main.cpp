@@ -48,10 +48,18 @@ int main(int argc, char const *argv[])
     }
 
     shared_ptr<Test> pTest1;//not able to use arrays in sahred pointer until c++17
+            cout<<"Counter0 : "<<pTest1.use_count()<<endl;
+
     {
         shared_ptr<Test> pTest2 = make_shared<Test>();
+        cout<<"Counter : "<<pTest2.use_count()<<endl;
         pTest1 = pTest2;
+        cout<<"Counter2 : "<<pTest2.use_count()<<endl;
+
     }
+
+    cout<<"Counter3 : "<<pTest1.use_count()<<endl;
+
     
 
     cout<<"Finished"<<endl;

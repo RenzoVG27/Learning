@@ -1,0 +1,8 @@
+Tokyo
+33000000
+Lima
+8000000
+Santiago
+3000000
+Buenos Aires
+9000000
