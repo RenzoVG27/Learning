@@ -77,14 +77,14 @@ int main(int argc, char const *argv[])
     }
 
 
-    char c = 10;
+   /* char c = 10;
     int *newint = static_cast<int*>(&c); //invalid because of number of bytes
 
     *newint = 500;
 
     cout<<"new int: "<<*newint<<endl;
 
-    
+    */
     
     return 0;
 }
